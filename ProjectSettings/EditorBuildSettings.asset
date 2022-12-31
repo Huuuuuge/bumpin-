@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scene/New Scene.unity
+    guid: ae857823d713a6f44b0ad44096528991
+  - enabled: 1
+    path: Assets/scene/stage.unity
+    guid: 8ebff1c8473bb1b46ad8597f623baf7c
+  - enabled: 1
+    path: Assets/scene/interviewscene.unity
+    guid: 811a25883aa05b44fb68f95936746c06
+  - enabled: 1
+    path: Assets/scene/audience.unity
+    guid: 6f3960ed7a54c1e49acf2993d63ed21a
+  - enabled: 1
+    path: Assets/scene/date.unity
+    guid: 01173d35346b5244d81c29a906bf2016
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0e1be461048f4f944a8980e780a7e284,
+      type: 2}
